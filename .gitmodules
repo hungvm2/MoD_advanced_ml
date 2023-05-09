@@ -1,0 +1,6 @@
+[submodule "grokking"]
+	path = grokking
+	url = https://github.com/hungvm2/grokking.git
+[submodule "NGCF-PyTorch"]
+	path = NGCF-PyTorch
+	url = https://github.com/hungvm2/NGCF-PyTorch.git
